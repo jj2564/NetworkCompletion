@@ -6,4 +6,8 @@ Sample of  problem which I meet from work.
 ```swift
 guard let self = self else { return }
 ```
+然後就全部都被return掉了。
+
+---
+
 所以也算是一個該記取經驗的事件，改別人的Code還是要看仔細裡面在幹嘛...
